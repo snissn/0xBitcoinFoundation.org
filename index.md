@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to the 0xBitcoin foundation
 
-You can use the [editor on GitHub](https://github.com/BKW1882/0xBitcoinFoundation.org/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The 0xBitcoin Foundation was founded in July of 2018 to promote the use, acceptance and development of applications and protocols using the ERC918 and ERC20 standards. We aim to fund and direct developments which we believe will substantially aid this goal, as well as act as a voice for community funded initiatives. We are chosen by the community to represent the community and the technology we believe will become central to development on the Ethereum platform. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Please bare with us while the site is under construction and check back for updates!
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BKW1882/0xBitcoinFoundation.org/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
